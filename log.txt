@@ -1,0 +1,12 @@
+2024-04-13 14:45:24 INFO ====== WebDriver manager ======
+2024-04-13 14:45:25 INFO Get LATEST chromedriver version for google-chrome
+2024-04-13 14:45:25 INFO Get LATEST chromedriver version for google-chrome
+2024-04-13 14:45:26 INFO Driver [C:\Users\junk0410448\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-13 14:45:27 INFO Test 1 Starting
+2024-04-13 14:45:27 INFO Send Roman90 to element //*[@id="login"]/div[1]/label/input
+2024-04-13 14:45:27 INFO Send f7983c2d7d to element //*[@id="login"]/div[2]/label/input
+2024-04-13 14:45:27 INFO Click login button
+2024-04-13 14:45:28 INFO Login successful
+2024-04-13 14:45:28 INFO Creating a new post
+2024-04-13 14:45:34 INFO Post created with title: NEW POST
+2024-04-13 14:45:34 INFO Testing Contact Us form
